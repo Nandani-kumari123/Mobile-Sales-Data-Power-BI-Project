@@ -9,3 +9,10 @@ Sales breakdown by City, Brand, and Mobile Model
 Monthly sales trends & customer ratings,
 Transaction distribution across payment methods,
 Region-wise insights with integrated map visuals 🗺️
+
+# 💡 Tools & Skills Applied:
+
+# # Power BI 
+(DAX, Filters, Slicers, Map Visuals)
+# # Data transformation & modeling
+# # Clean visual storytelling for business insights
