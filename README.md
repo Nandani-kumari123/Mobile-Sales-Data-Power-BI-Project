@@ -45,3 +45,10 @@ Weekday sales trend to identify peak days.
 * Created end-to-end Power BI dashboard from raw data.
 * Performed data cleaning and ETL process using SQL and Excel.
 * Designed interactive visuals for better storytelling.
+
+# Repository Structure
+* Data: https://github.com/Nandani-kumari123/Mobile-Sales-Data-Power-BI-Project/blob/main/Mobile%20Sales%20Data.xlsx <br />
+* Dashboard: [Power BI file (.pbix) of the project](https://github.com/Nandani-kumari123/Mobile-Sales-Data-Power-BI-Project/blob/main/Power%20BI%20Project.pbix) <br />
+* Images: <img width="1325" height="743" alt="Final Dashboard" src="https://github.com/user-attachments/assets/01e67195-1712-42ec-a5c9-384e7a405ad9" />
+
+
